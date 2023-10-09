@@ -48,4 +48,4 @@ python visualizer_drag_gradio.py
 
 在 `Pickle` 中选择模型，选好模型后在 `Latent` 中的 `Seed` 选择图片，然后在图片中选择需要拖动的目标位置，再次选择拖动的目的地，点击 `Start` 开始。
 
-![](https://github.com/danielchan-25/Mind-Palace/AI-ProJect/img/DragGAN-2.gif)
+![](https://github.com/danielchan-25/AI-ProJect/blob/main/img/DragGAN-2.gif?raw=true)

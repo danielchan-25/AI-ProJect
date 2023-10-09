@@ -124,7 +124,7 @@ git clone https://github.com/AUTOMATIC1111/stable-diffusion-webui.git
 > 1.4版本：https://huggingface.co/CompVis/stable-diffusion-v-1-4-original/tree/main
 > 1.5版本：https://huggingface.co/runwayml/stable-diffusion-v1-5
 
-![](https://github.com/danielchan-25/AI-ProJect/img/stablediffusionwebui-1.png)
+![](https://github.com/danielchan-25/AI-ProJect/blob/main/img/stablediffusionwebui-1.png?raw=true)
 
 下载完成后，存放在 `stable-diffusion-webui/models` 下。
 
@@ -134,7 +134,7 @@ git clone https://github.com/AUTOMATIC1111/stable-diffusion-webui.git
 存放在 `stable-diffusion-webui/` 下。
 > https://github.com/TencentARC/GFPGAN
 
-![](https://github.com/danielchan-25/AI-ProJect/img/stablediffusionwebui-2.png)
+![](https://github.com/danielchan-25/AI-ProJect/blob/main/img/stablediffusionwebui-2.png?raw=true)
 
 环境已全部准备完毕，可以启动程序。
 
@@ -196,7 +196,7 @@ python launch.py --nowebui
 
 在 Stable Diffusion web UI 中，扩展在以下图中添加：
 
-![](https://github.com/danielchan-25/AI-ProJect/img/stablediffusionwebui-3.png)
+![](https://github.com/danielchan-25/AI-ProJect/blob/main/img/stablediffusionwebui-3.png?raw=true)
 
 但因国内网络环境问题，经常无法加载，那就可以使用其它操作。
 
@@ -212,11 +212,11 @@ python launch.py --nowebui
 `Clip Skip`
 - early stopping parameter for CLIP model，1是保持不变，最后一层才停止。
 如何设置：[Setting]-->[stable diffusion]-->[clip skip]
-![](https://github.com/danielchan-25/AI-ProJect/img/stablediffusionwebui-4.png)
+![](https://github.com/danielchan-25/AI-ProJect/blob/main/img/stablediffusionwebui-4.png?raw=true)
 
 `ENSD`
 - 全称是：`Eta noise seed delta`，
-![](https://github.com/danielchan-25/AI-ProJect/img/stablediffusionwebui-5.png)
+![](https://github.com/danielchan-25/AI-ProJect/blob/main/img/stablediffusionwebui-5.png?raw=true)
 
 ## 命令行生成图像
 ```sh

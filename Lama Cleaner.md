@@ -33,14 +33,14 @@ lama-cleaner --model=lama --device=cuda --host=0.0.0.0 --port=8080
 # 更多使用参数请使用 -h 查看
 ```
 
-![](https://github.com/danielchan-25/AI-ProJect/img/lama_cleaner-1.png)
+![](https://github.com/danielchan-25/AI-ProJect/blob/main/img/lama_cleaner-1.png?raw=true)
 
 ## 测试
 
 简单测试了一下 `lama` 模型，使用了来自百度图片中的广州地铁，尝试将其中的部分抹去，以下是前后对比图：
 
-![](https://github.com/danielchan-25/AI-ProJect/img/lama_cleaner-2.png)
+![](https://github.com/danielchan-25/AI-ProJect/blob/main/img/lama_cleaner-2.png?raw=true)
 
-![](https://github.com/danielchan-25/AI-ProJect/img/lama_cleaner-3.png)
+![](https://github.com/danielchan-25/AI-ProJect/blob/main/img/lama_cleaner-3.png?raw=true)
 
-![](https://github.com/danielchan-25/AI-ProJect/img/lama_cleaner-4.png)
+![](https://github.com/danielchan-25/AI-ProJect/blob/main/img/lama_cleaner-4.png?raw=true)

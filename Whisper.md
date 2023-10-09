@@ -53,7 +53,7 @@ pip install git+https://github.com/openai/whisper.git
 
 以下是我在网上采摘一段文字，转成mp3文件后，再使用 `Whisper` 转回中文的真实测试：
 
-![](https://github.com/danielchan-25/AI-ProJect/img/whisper-1.png)
+![](https://github.com/danielchan-25/AI-ProJect/blob/main/img/whisper-1.png?raw=true)
 
 
 
@@ -65,6 +65,6 @@ pip install git+https://github.com/openai/whisper.git
 >
 > 显卡型号：RTX 2060
 
-![](https://github.com/danielchan-25/AI-ProJect/img/whisper-shorttext.png)
+![](https://github.com/danielchan-25/AI-ProJect/blob/main/img/whisper-shorttext.png?raw=true)
 
-![](https://github.com/danielchan-25/AI-ProJect/img/whisper-longtext.png)
+![](https://github.com/danielchan-25/AI-ProJect/blob/main/img/whisper-longtext.png?raw=true)
