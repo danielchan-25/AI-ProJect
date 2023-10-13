@@ -13,7 +13,7 @@ DragGAN 允许用户交互地将图片中的点拖动到他们选择的目标位
 先创建一个 Python 环境
 
 ```sh
-conda create --name=DragGAN python==3.8.10
+conda create --name=DragGAN python==3.9.6
 conda activate DragGAN
 ```
 
@@ -28,18 +28,19 @@ cd DragGAN/
 
 ```sh
 pip install -r requirements.txt
+pip install pillow==9.5.0
 ```
 
 下载预训练 StyleGAN2 的权重
 
 ```sh
-sh scripts/download_model.sh
+python scripts/download_model.py
 ```
 
 启动 GUI
 
 ```sh
-python visualizer_drag_gradio.py
+python visualizer_drag_gradio.py --share --listen
 ```
 
 访问 http://127.0.0.1:7860 即可到达 GUI 界面
