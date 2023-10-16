@@ -12,7 +12,7 @@
 
 等待五分钟，会收到以下邮件，表示申请通过了：
 
-![](https://github.com/danielchan-25/Mind-Palace/blob/main/Services/Ai/img/code_llama-1.png)
+![](https://github.com/danielchan-25/AI-ProJect/blob/main/img/code_llama-1.png)
 
 注意保存红色方框里的地址，下载模型时要用。
 
@@ -30,4 +30,4 @@ git clone https://github.com/facebookresearch/codellama.git
 
 2. `Enter the list of models to download without spaces (7b,13b,34b,7b-Python,13b-Python,34b-Python,7b-Instruct,13b-Instruct,34b-Instruct), or press Enter for all:` 我选择的是`7b` `7b-Python` 两个模型，输入后开始下载，接下来就是漫长的等待。
 
-![](https://github.com/danielchan-25/Mind-Palace/blob/main/Services/Ai/img/code_llama-2.png)
+![](https://github.com/danielchan-25/AI-ProJect/blob/main/img/code_llama-2.png)
