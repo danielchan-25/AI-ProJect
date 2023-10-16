@@ -1,7 +1,5 @@
 # DragGAN
 
-![](https://github.com/danielchan-25/Mind-Palace/blob/main/Services/Ai/img/DragGAN-1.png)
-
 > https://github.com/XingangPan/DragGAN
 
 DragGAN 是由Max Planck研究所开发的一种新的人工智能工具，它允许用户通过几个点击和拖动来真实地修改照片。根据一篇研究文章，它提供了两个主要组成部分：基于特征的运动监督和一种革命性的点追踪技术。
